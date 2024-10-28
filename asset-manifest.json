@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/WeatherWear/static/css/main.1f2f9319.css",
+    "main.js": "/WeatherWear/static/js/main.481cb88e.js",
+    "static/media/meesho.png": "/WeatherWear/static/media/meesho.837b7ee3b9efabc139be.png",
+    "static/media/amazon.png": "/WeatherWear/static/media/amazon.740aa7b25a15d6df9b43.png",
+    "static/media/zara.png": "/WeatherWear/static/media/zara.dafcf2bbeee02c93a6ac.png",
+    "index.html": "/WeatherWear/index.html",
+    "main.1f2f9319.css.map": "/WeatherWear/static/css/main.1f2f9319.css.map",
+    "main.481cb88e.js.map": "/WeatherWear/static/js/main.481cb88e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f2f9319.css",
+    "static/js/main.481cb88e.js"
+  ]
+}
