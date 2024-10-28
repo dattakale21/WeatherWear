@@ -1,0 +1,36 @@
+/* shopnow.css */
+
+.shop-now {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem; /* Tailwind's mt-4 equivalent */
+    width:80%;
+    height:70%;
+    margin: auto;
+    margin-bottom:4rem;
+    border-radius:8px;
+    background-color:rgb(230, 227, 209);
+    box-shadow: 10px 10px 10px rgba(29, 41, 46, 0.1); /* Shadow effect */
+
+    
+}
+
+.shop-now a {
+    margin: 0 0.5rem; /* Tailwind's mx-2 equivalent */
+}
+
+.shop-now img {
+    height: 10rem; /* Set desired height */
+    width: 12rem; /* Set desired width */
+    transition: transform 0.2s; /* Optional: for hover effect */
+    margin:0 auto;
+    padding:2rem;
+}
+
+.shop-now img:hover {
+    transform: scale(1.1); /* Optional: slightly increase size on hover */
+}
+
+
+
