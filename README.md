@@ -159,7 +159,6 @@ MIT License. Feel free to review and test locally.
 
 ## 📌 Example `.env.example` File
 
-Include this file in your project root so the recruiter knows which variables are needed:
 
 ```
 REACT_APP_OPENWEATHER_API_KEY=YOUR_OPENWEATHER_API_KEY_HERE
